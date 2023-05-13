@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+```python
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -107,6 +108,7 @@ Execute the program
 </table>
 </body>
 </html>
+```
 
 # OUPUT
 ![output](timetable.png)
